@@ -1,0 +1,11 @@
+/*Login.css CSS style to login.js*/
+.btn-primary:hover{
+    background-color:blueviolet;
+}
+.container{
+    font-family: 'Mooli', sans-serif;
+}
+.text-dark{
+    text-decoration: none;
+    font-family: 'Mooli', sans-serif; 
+}
